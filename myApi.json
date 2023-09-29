@@ -1,5 +1,5 @@
 
-[
+{"Product" :[
    {
       "id": "EcomId1",
       "name": "iphone x",
@@ -169,4 +169,4 @@
       "category": "watch",
       "featured": true
     }
-  ]
+  ]}
