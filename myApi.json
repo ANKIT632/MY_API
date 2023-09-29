@@ -1,9 +1,7 @@
-// 20230921135557
-// https://api.pujakaitem.com/api/products
 
 [
     {
-      "id": "thapaserialnoa",
+      "id": "EcomId1",
       "name": "iphone x",
       "company": "apple",
       "price": 6000000,
@@ -18,7 +16,7 @@
       "featured": true
     },
     {
-      "id": "thapaserialnob",
+      "id": "EcomId2",
       "name": "samsung s20",
       "company": "samsung",
       "price": 5000000,
@@ -32,7 +30,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnoc",
+      "id": "EcomId3",
       "name": "Dell Series",
       "company": "dell",
       "price": 600000,
@@ -45,7 +43,7 @@
       "category": "laptop"
     },
     {
-      "id": "thapaserialnod",
+      "id": "EcomId4",
       "name": "Nokia 420",
       "company": "nokia",
       "price": 12599,
@@ -60,7 +58,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnoe",
+      "id": "EcomId5",
       "name": "Mac Pc",
       "company": "apple",
       "price": 4000099,
@@ -74,7 +72,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnof",
+      "id": "EcomId6",
       "name": "Macbook Pro",
       "company": "apple",
       "price": 42999,
@@ -88,7 +86,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnog",
+      "id": "EcomId7",
       "name": "Asus gseries",
       "company": "asus",
       "price": 23999,
@@ -102,7 +100,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnoh",
+      "id": "EcomId8",
       "name": "Accessories",
       "price": 1099999,
       "company": "lenova",
@@ -117,7 +115,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnoi",
+      "id": "EcomId9",
       "name": "Iwatch",
       "price": 39999,
       "company": "apple",
@@ -130,7 +128,7 @@
       "shipping": true
     },
     {
-      "id": "thapaserialnoj",
+      "id": "EcomId10",
       "name": "user need",
       "company": "apple",
       "price": 300099,
@@ -144,7 +142,7 @@
       "category": "accessories"
     },
     {
-      "id": "thapaserialnok",
+      "id": "EcomId11",
       "name": "rolex premium",
       "company": "rolex",
       "price": 999999,
@@ -157,7 +155,7 @@
       "category": "watch"
     },
     {
-      "id": "thapaserialnol",
+      "id": "EcomId12",
       "name": "galaxy w20",
       "price": 311999,
       "company": "samsung",
